@@ -49,9 +49,6 @@ wssplot(wine2)
 #        The iteration process improves the overall outcome.
 
 #   * Look at the code for wssplot() and figure out how it works
-
-
-#   * Look at the code for wssplot() and figure out how it works
 # The apply function in wssplot function calculates the variance of each column of the data set and returns a vector of these values.
 
 # Method 2: Use the NbClust library, which runs many experiments
